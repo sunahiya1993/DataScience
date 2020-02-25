@@ -77,6 +77,10 @@
         "### 1.1 Create three numerical variables (ints and/or floats) and add them together. At least one of your variables must hold a negative value."
       ]
     },
+        x = 33
+        y = -15
+        z = 25
+        x + y + z
     {
       "cell_type": "code",
       "metadata": {
